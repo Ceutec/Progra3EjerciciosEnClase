@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1433014892 source:/home/turupawn/Clases/Progra3Ceutec/ArchivosBinarios/main.cpp
+	<iostream>
+	<fstream>
+
