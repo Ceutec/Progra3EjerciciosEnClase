@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1434228080 source:/home/turupawn/Clases/Progra3Ceutec/STL/main.cpp
+	<iostream>
+	<queue>
+	<stack>
+	<set>
+	<vector>
+	<list>
+
